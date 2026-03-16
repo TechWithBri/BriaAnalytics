@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TechWithBri
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Python
-- 📫 How to reach me Email: Blecompte925@gmail.com
+- 👀 I’m interested in Data Analytics & Automation
+- 🌱 I’m currently learning R
+- 📫 How to reach me: Blecompte925@gmail.com
 
 <!---
 TechWithBri/TechWithBri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
